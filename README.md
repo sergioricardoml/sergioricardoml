@@ -5,10 +5,11 @@
 [![HitCount](http://hits.dwyl.com/sergioricardoml/sergioricardoml.svg)](http://hits.dwyl.com/sergioricardoml/sergioricardoml)
 
 ### Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 - 🌎 I'm from Volta Redonda / Brazil<br />
 - 💻 Tech enthusiast who loves ReactJS, React Native, Node.js and TypeScript<br />
 - 📚 Looking forward to learn even more!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioricardoml&layout=compact&langs_count=6&hide=ruby,java&title_color=24292E&hide_border=true&card_width=350" align="center">
 
 <!--
 <a href="https://www.linkedin.com/in/sergioricardolara/">
