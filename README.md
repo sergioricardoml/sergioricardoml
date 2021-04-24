@@ -1,6 +1,6 @@
 ## Sérgio Lara 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2981BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioricardoml)](https://www.linkedin.com/in/sergioricardoml)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2981BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioricardolara)](https://www.linkedin.com/in/sergioricardolara)
 [![Mail Badge](https://img.shields.io/badge/-E&#8208;mail-F25022?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio-ricardo@hotmail.com)](mailto:sergio-ricardo@hotmail.com)
 [![HitCount](http://hits.dwyl.com/sergioricardoml/sergioricardoml.svg)](http://hits.dwyl.com/sergioricardoml/sergioricardoml)
 
